@@ -1,4 +1,5 @@
 // IMAGEN DE FONDO
+// ¡¡LA IMAGEN DEBE CARGARSE FUERA DEL EVENT LISTENER SIEMPRE!!
 document.getElementById('parallax').style.backgroundImage = "url('../img/alexander-psiuk-utfiDJBebHw-unsplash.jpg')"
 
 // FUNCION PARA CONTROLAR LA VELOCIDAD DEL SCROLL
